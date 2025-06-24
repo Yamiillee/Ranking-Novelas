@@ -10,6 +10,11 @@ Este site foi desenvolvido para divertir os usuários com categorias singulares 
 
 ---
 
+## Integrantes do grupo
+- Kevilyn Silva
+- Jacqueline Sousa
+- Yamille Nascimento
+
 ## Funcionalidades
 
 - Login e controle de sessão com PHP
